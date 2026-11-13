@@ -60,7 +60,6 @@ apodización, como en las opciones `-pad` y `-apo` de DeconvolutionLab2.
 | Datos | Fuente | Licencia |
 |---|---|---|
 | `FluorescentCells.jpg`: células endoteliales de arteria pulmonar bovina (DAPI, tubulina, actina F) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FluorescentCells.jpg), imagen de ejemplo de ImageJ | Dominio público |
-| Imágenes TIRF de lisosomas con OTF medida, y microtúbulos con PSF (no incluidas) | [Zenodo 7261163](https://zenodo.org/records/7261163), archivo `2D data.zip` | CC-BY 4.0 |
 | Imágenes y datos de los *challenges* (`*.tif`, `*.mat`, no incluidos) | Web del libro de Hansen, Nagy & O'Leary | — |
 
 ## Referencias
