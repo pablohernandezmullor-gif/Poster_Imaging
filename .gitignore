@@ -1,0 +1,18 @@
+# Archivos temporales de MATLAB
+*.asv
+*.log
+
+# Figuras y resultados generados por los scripts
+Output/
+Outputs/
+*.ps
+
+# Datos: solo se sube la imagen de fluorescencia (dominio público).
+# El resto se descarga de su fuente original (ver README).
+Datos/*
+!Datos/FluorescentCells.jpg
+*.zip
+
+# Imágenes y datos del libro de Hansen, Nagy & O'Leary (web del libro)
+*.tif
+*.mat
