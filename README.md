@@ -23,7 +23,6 @@ Es un caso particular del filtro de Wiener con $P_n/P_f = \lambda|L|^2$.
 | `solucion_challenge1.m` | Primer acercamiento con el *Challenge 1* del libro de Hansen: inversión ingenua, extracción de la PSF y filtro LSS. |
 | `challenge1.m`, `challenge2.m` | Generadores de los *challenges* del libro de Hansen, Nagy & O'Leary. |
 | `Chapter_2.mlx` | Notas del capítulo 2 del libro. |
-| `herramientas/otf_to_psf.py` | Convierte la OTF radial medida (formato `.mrc`) del conjunto ZS-DeconvNet en una PSF 2D en TIFF. |
 | `Datos/FluorescentCells.jpg` | Imagen de fluorescencia usada en `poster.m`. |
 
 ## Cómo ejecutar `poster.m`
